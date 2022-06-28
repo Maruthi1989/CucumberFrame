@@ -41,10 +41,12 @@ public class LoginPage
 		Password.sendKeys(password);
 	}
 	
+	//It will click on the signin button
 	public void clickSignin()
 	{
 		Sigin.click();
 	}
+	
 	
 	public void verifyLoginSuccess()
 	{
