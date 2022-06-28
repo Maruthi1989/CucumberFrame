@@ -36,6 +36,7 @@ public class LoginPage
 		Email_Id.sendKeys(emailid);
 	}
 	
+	//It will enter the passwword
 	public void eneterPassword(String password)
 	{
 		Password.sendKeys(password);
